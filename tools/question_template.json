@@ -1,0 +1,82 @@
+{
+    "count-nohint": [
+        "how many %(ref)s can you see?",
+        "how many %(ref)s are there?",
+        "how many %(ref)s do you have?",
+        "can you tell me how many %(ref)s in your image?",
+        "i want to know the number of %(ref)s in your picture."
+    ],
+    "count-hint": [
+        "i have %(q_ans_cnt)s %(ref)s, how about you?",
+        "there %(copula)s %(q_ans_cnt)s %(ref)s in my picture, what about you?",
+        "i can see %(q_ans_cnt)s %(ref)s, and you?",
+        "%(q_ans_cnt)s %(ref)s %(copula)s in my picture, and you?"
+    ],
+    "extreme-pic": [
+        "what is the %(loc1)smost thing?",
+        "what is on the far %(loc1)s?"
+    ],
+    "extreme-pic-hint": [
+        "the %(loc1)smost one in my picture is %(article)s %(q_ans_ref)s, what about you?",
+        "there is %(article)s %(q_ans_ref)s on the far %(loc1)s of the image, and you?"
+    ],
+    "extreme-obj": [
+        "what is the %(loc1)smost thing on the %(ref)s?"
+    ],
+    "extreme-obj-hint": [
+        "the %(loc1)smost one on the %(ref)s is %(article)s %(q_ans_ref)s, what about you?",
+        "there is %(article)s %(q_ans_ref)s on the far %(loc1)s of the %(ref)s, and you?"
+    ],
+    "extreme-obj2": [
+        "what is the %(loc1)smost thing on the %(loc2)smost %(ref)s?"
+    ],
+    "extreme-obj2-hint": [
+        "the %(loc1)smost one on the %(loc2)smost %(ref)s is %(article)s %(q_ans_ref)s, what about you?",
+        "there is %(article)s %(q_ans_ref)s on the far %(loc1)s of the %(loc2)smost %(ref)s, and you?"
+    ],
+    "query-color": [
+        "what color is the %(obj)s?",
+        "what is the color of the %(obj)s?"
+    ],
+    "query-color-hint": [
+        "the %(obj)s is %(q_val)s, and you?"
+    ],
+    "query-material": [
+        "what is the material of the %(obj)s?",
+        "what is the %(obj)s made of?"
+    ],
+    "query-material-hint": [
+        "the %(obj)s is made of %(q_val)s, how about you?"
+    ],
+    "refer-it": [
+        "what is it?",
+        "can you tell me what it is?",
+        "can you give me more information about it?"
+    ],
+    "refer-them": [
+        "what are they?",
+        "can you tell me what they are?",
+        "can you give me more information about them?"
+    ],
+    "same": [
+        "so do i.",
+        "as same as you.",
+        "yes.",
+        "ok."
+    ],
+    "diff": [
+        "this is different from mine.",
+        "mine is different from yours.",
+        "there are some differences.",
+        "it is different from mine."
+    ],
+    "more": [
+        "i have one more than you.",
+        "mine is more than yours.",
+        "yours is less than mine."
+    ],
+    "less": [
+        "mine is less than yours.",
+        "there are fewer in my image than yours."
+    ]
+}
